@@ -30,6 +30,9 @@ http://color.kvfrans.com
 ### Pre-trained
 
 Get the pretrained model:
+[here](/model/tr_e18_missing_color.tar.gz)
+
+alternatively it's archived here: 
 https://drive.google.com/file/d/0BydPPLNieijIdDlUYWxhelEwRnM/view?usp=sharing
 
 Folder structure should go:
